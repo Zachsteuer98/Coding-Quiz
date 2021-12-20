@@ -14,3 +14,6 @@ Javascript
 
 ## Contributions
 Made by Zachary Steuer
+
+![image](https://user-images.githubusercontent.com/93566950/146696411-9604ccac-dcf4-485b-ba47-aa56e0db529c.png)
+
