@@ -1,0 +1,38 @@
+#timeDisplay {
+    display: inline-block;
+    font-size: 1.50rem;
+}
+
+.intro {
+    padding: 1%;
+    display: inline-block;
+    width: 60%;
+}
+
+.center {
+    text-align: center;
+}
+
+
+ .left {
+text-align: left;
+
+}
+.quiz.btn {
+margin-left: 40%;
+}
+
+.quiz {
+    display: none;
+}
+
+#feedback {
+margin-left: 35%;
+color: #94d3b5;
+font-style: italic;
+}
+
+hr {
+    width: 60%;
+    padding: 1% auto;
+}
